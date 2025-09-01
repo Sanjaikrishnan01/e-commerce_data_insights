@@ -21,5 +21,3 @@ It provides actionable insights that help businesses optimize marketing, invento
 - **Libraries:** Pandas, Matplotlib, Seaborn, Plotly  
 - **Skills Used:** Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Business Analytics  
 ---
-
-## 📂 Project Structure  
